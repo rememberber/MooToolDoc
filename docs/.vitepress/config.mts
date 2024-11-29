@@ -4,6 +4,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "MooTool",
   description: "Handy desktop toolset for developers",
+  head: [
+    ['link', { rel: 'icon', href: '/assets/favicon.ico' }]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/assets/logo/logo-128.png',
