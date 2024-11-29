@@ -6,6 +6,7 @@ export default defineConfig({
   description: "Handy desktop toolset for developers",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/assets/logo/logo-128.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
