@@ -6,7 +6,7 @@ hero:
   name: "MooTool"
   text: "Handy desktop toolset for developers"
   tagline: My great project tagline
-  image: /assets/logo/logo-128.png
+  image: /assets/logo/logo-256.png
   actions:
     - theme: brand
       text: Markdown Examples
