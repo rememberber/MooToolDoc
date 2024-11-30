@@ -30,3 +30,22 @@
     --vp-c-indigo-2: #FCC46D; /* 主题色-hover */
     --vp-c-indigo-3: #FAE450;
 }
+
+:root {
+
+    /* brand按钮 */
+    /* 正常 */
+    --vp-button-brand-text: #383838; /* 文字色 */
+    /*--vp-button-brand-border: green; !* 边框色 *!*/
+    /*--vp-button-brand-bg: #43aefc; !* 背景色 *!*/
+
+    /* hover状态 */
+    --vp-button-brand-hover-text: #fff;
+    --vp-button-brand-hover-border: #75c4fe;
+    --vp-button-brand-hover-bg: #75c4fe;
+
+    /* active状态-点击 */
+    /*--vp-button-brand-hover-text: gold;*/
+    /*--vp-button-brand-hover-border: #43aefc;*/
+    /*--vp-button-brand-active-bg: #43aefc;*/
+}
