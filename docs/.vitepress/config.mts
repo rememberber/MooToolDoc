@@ -10,7 +10,7 @@ export default defineConfig({
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/assets/icon/calculate.svg',
+    logo: '/assets/icon/logo-128.png',
     nav: [
       { text: '首页', link: '/' },
       { text: '文档', link: '/markdown-examples' },
