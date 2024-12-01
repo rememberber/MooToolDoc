@@ -18,7 +18,7 @@ hero:
 features:
   - title: 随手记
     icon:
-      src: /assets/icon/edit.svg
+      src: /docs/assets/icon/edit.svg
     details: 记录代码片段、常用的SQL、常用的接口、常用的数据、暂存一些临时log等。<br/>支持丰富的快捷替换和转换操作。
   - title: 时间转换
     icon:
