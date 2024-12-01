@@ -16,7 +16,7 @@ hero:
       link: /api-examples
 
 features:
-  - title: <img src="../MooToolDoc/assets/logo/logo-128.png" alt="FeatureAIcon" width="64" height="64" /> 随手记
+  - title: <img src="../MooToolDoc/assets/icon/edit.svg" alt="FeatureAIcon" width="64" height="64" /> 随手记
     details: 记录代码片段、常用的SQL、常用的接口、常用的数据、暂存一些临时log等。<br/>支持丰富的快捷替换和转换操作。
   - title: <img src="../MooToolDoc/assets/icon/time.svg" alt="FeatureAIcon" width="64" height="64" /> 时间转换
     details: Unix时间戳和本地时间的互相转换。<br/>操作直观，自动保存每次转换记录，支持毫秒和秒级别的时间戳。
