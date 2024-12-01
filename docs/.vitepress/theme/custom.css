@@ -40,9 +40,9 @@
     /*--vp-button-brand-bg: #43aefc; !* 背景色 *!*/
 
     /* hover状态 */
-    --vp-button-brand-hover-text: #fff;
-    --vp-button-brand-hover-border: #75c4fe;
-    --vp-button-brand-hover-bg: #75c4fe;
+    --vp-button-brand-hover-text: #FAE450;
+    /*--vp-button-brand-hover-border: #75c4fe;*/
+    --vp-button-brand-hover-bg: #383838;
 
     /* active状态-点击 */
     /*--vp-button-brand-hover-text: gold;*/
