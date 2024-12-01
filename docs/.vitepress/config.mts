@@ -13,13 +13,14 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '文档', link: '/markdown-examples' },
-      { text: '更新日志', link: '/markdown-examples' }
+      { text: '更新日志', link: 'https://github.com/rememberber/MooTool/releases' }
     ],
 
     sidebar: [
       {
         text: 'MooTool功能',
         items: [
+          { text: 'Overview', link: '/overview' },
           { text: '随手记', link: '/markdown-examples' },
           { text: '时间转换', link: '/api-examples' }
         ]
