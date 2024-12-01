@@ -11,22 +11,23 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: '/assets/logo/logo-128.png',
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '首页', link: '/' },
+      { text: '文档', link: '/markdown-examples' },
+      { text: '更新日志', link: '/markdown-examples' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'MooTool功能',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '随手记', link: '/markdown-examples' },
+          { text: '时间转换', link: '/api-examples' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/rememberber/MooTool' }
     ]
   }
 })
