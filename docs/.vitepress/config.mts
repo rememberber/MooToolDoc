@@ -6,7 +6,7 @@ export default defineConfig({
   title: "MooTool",
   description: "Handy desktop toolset for developers",
   head: [
-    ['link', { rel: 'icon', href: '/assets/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/MooToolDoc/assets/favicon.ico' }]
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
