@@ -12,7 +12,7 @@ hero:
       text: 开始使用
       link: /overview
     - theme: alt
-      text: 功能地图
+      text: 文档
       link: /api-examples
 
 features:
