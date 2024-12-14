@@ -6,7 +6,7 @@ hero:
   name: "MooTool"
   text: "Handy desktop toolset for developers"
   tagline: 开发者常备桌面小工具
-  image: /assets/logo/logo-256.png
+  image: /MooToolDoc/assets/logo/logo-256.png
   actions:
     - theme: brand
       text: 立即下载
@@ -33,8 +33,12 @@ features:
       src: /docs/assets/logo/logo-128.png
     details: Host管理，支持快速切换、添加、删除、导入、导出等。<br/>管理本地Host文件的好帮手。
   - title: <img src="../MooToolDoc/assets/icon/global.svg" alt="FeatureAIcon" width="64" height="64" /> HTTP
+    icon:
+      src: /MooToolDoc/docs/assets/logo/logo-128.png
     details: 发送和管理HTTP请求，支持GET、POST、PUT、DELETE、PATCH等请求方式。<br/>支持自定义请求头、请求体、请求参数、请求Cookie等。
   - title: <img src="../MooToolDoc/assets/icon/exchange.svg" alt="FeatureAIcon" width="64" height="64" /> 编码转换
+    icon:
+      src: /MooToolDoc/assets/logo/logo-128.png
     details: 支持常见的编码转换，如Base64、URL、Unicode、HEX等。
   - title: <img src="../MooToolDoc/assets/icon/QRcode.svg" alt="FeatureAIcon" width="64" height="64" /> 二维码
     details: 生成和解析二维码。<br/>自动保存历史记录。
