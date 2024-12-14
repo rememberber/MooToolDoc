@@ -25,8 +25,12 @@ features:
       src: /assets/icon/time.svg
     details: Unix时间戳和本地时间的互相转换。<br/>操作直观，自动保存每次转换记录，支持毫秒和秒级别的时间戳。
   - title: <img src="../MooToolDoc/assets/icon/json.svg" alt="FeatureAIcon" width="64" height="64" /> JSON
+    icon:
+      src: /assets/logo/logo-128.png
     details: JSON格式化、压缩、转义、解析、排序、转换等。<br/>支持JSONPath、JSON和XML互转、JSON和JavaBean互转等。
   - title: <img src="../MooToolDoc/assets/icon/check.svg" alt="FeatureAIcon" width="64" height="64" /> Host
+    icon:
+      src: /docs/assets/logo/logo-128.png
     details: Host管理，支持快速切换、添加、删除、导入、导出等。<br/>管理本地Host文件的好帮手。
   - title: <img src="../MooToolDoc/assets/icon/global.svg" alt="FeatureAIcon" width="64" height="64" /> HTTP
     details: 发送和管理HTTP请求，支持GET、POST、PUT、DELETE、PATCH等请求方式。<br/>支持自定义请求头、请求体、请求参数、请求Cookie等。
