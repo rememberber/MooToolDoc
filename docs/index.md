@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: 立即下载
-      link: /overview
+      link: https://github.com/rememberber/MooTool/releases
     - theme: alt
       text: 文档
       link: /api-examples
