@@ -62,11 +62,11 @@ features:
     details: Java和Groovy代码的解释执行。
   - title: <img src="../MooToolDoc/assets/icon/format_painter.svg" alt="FeatureAIcon" width="64" height="64" /> 格式化
     details: 格式化文本或者文件，支持Nginx配置文件、XML、Java、HTML等。
-  - title: <img src="../MooToolDoc/assets/icon/pdf.svg" alt="FeatureAIcon" width="64" height="64" /> PDF
+  - title: <img src="/icon/pdf.svg" alt="FeatureAIcon" width="64" height="64" /> PDF
     details: PDF文件的合并、拆分等。
-  - title: <img src="../MooToolDoc/assets/icon/fx.svg" alt="FeatureAIcon" width="64" height="64" /> 环境变量
+  - title: <img src="/assets/icon/fx.svg" alt="FeatureAIcon" width="64" height="64" /> 环境变量
     details: 系统和Java环境变量的查看。
-  - title: <img src="../MooToolDoc/assets/icon/suffix-yml.svg" alt="FeatureAIcon" width="64" height="64" /> 配置文件转换
+  - title: <img src="/MooToolDoc/assets/icon/suffix-yml.svg" alt="FeatureAIcon" width="64" height="64" /> 配置文件转换
     details: 支持YAML、Properties配置文件的互转。
 ---
 
