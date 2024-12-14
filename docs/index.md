@@ -18,7 +18,7 @@ hero:
 features:
   - title: 随手记
     icon:
-      src: /docs/assets/icon/edit.svg
+      src: /icon/edit.svg
     details: 记录代码片段、常用的SQL、常用的接口、常用的数据、暂存一些临时log等。<br/>支持丰富的快捷替换和转换操作。
   - title: 时间转换
     icon:
@@ -56,7 +56,7 @@ features:
     details: 施工中，敬请期待……
   - title: <img src="../MooToolDoc/assets/icon/schedule.svg" alt="FeatureAIcon" width="64" height="64" /> Cron
     details: Cron表达式生成、解析、校验、计算等。<br/>支持常用的Cron表达式。<br/>支持收藏。
-  - title: <img src="/icon/reg.svg" alt="FeatureAIcon" width="64" height="64" /> 正则
+  - title: <img src="/MooToolDoc/icon/reg.svg" alt="FeatureAIcon" width="64" height="64" /> 正则
     details: 正则表达式解析、校验、匹配等。<br/>支持常用的正则表达式。<br/>支持收藏。
   - title: <img src="../MooToolDoc/assets/icon/java.svg" alt="FeatureAIcon" width="64" height="64" /> Java
     details: Java和Groovy代码的解释执行。
