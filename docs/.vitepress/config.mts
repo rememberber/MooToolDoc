@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/MooToolDoc/',
+  base: '/',
   title: "MooTool",
   description: "Handy desktop toolset for developers",
   head: [
