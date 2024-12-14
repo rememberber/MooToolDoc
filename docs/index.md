@@ -9,7 +9,7 @@ hero:
   image: /assets/logo/logo-256.png
   actions:
     - theme: brand
-      text: 开始使用
+      text: 立即下载
       link: /overview
     - theme: alt
       text: 文档
