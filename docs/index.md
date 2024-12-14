@@ -56,11 +56,11 @@ features:
     details: 施工中，敬请期待……
   - title: <img src="../MooToolDoc/assets/icon/schedule.svg" alt="FeatureAIcon" width="64" height="64" /> Cron
     details: Cron表达式生成、解析、校验、计算等。<br/>支持常用的Cron表达式。<br/>支持收藏。
-  - title: <img src="../MooToolDoc/assets/icon/reg.svg" alt="FeatureAIcon" width="64" height="64" /> 正则
+  - title: <img src="/icon/reg.svg" alt="FeatureAIcon" width="64" height="64" /> 正则
     details: 正则表达式解析、校验、匹配等。<br/>支持常用的正则表达式。<br/>支持收藏。
   - title: <img src="../MooToolDoc/assets/icon/java.svg" alt="FeatureAIcon" width="64" height="64" /> Java
     details: Java和Groovy代码的解释执行。
-  - title: <img src="../MooToolDoc/assets/icon/format_painter.svg" alt="FeatureAIcon" width="64" height="64" /> 格式化
+  - title: <img src="/icon/format_painter.svg" alt="FeatureAIcon" width="64" height="64" /> 格式化
     details: 格式化文本或者文件，支持Nginx配置文件、XML、Java、HTML等。
   - title: <img src="/icon/pdf.svg" alt="FeatureAIcon" width="64" height="64" /> PDF
     details: PDF文件的合并、拆分等。
