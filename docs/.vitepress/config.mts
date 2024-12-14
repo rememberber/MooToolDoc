@@ -6,11 +6,11 @@ export default defineConfig({
   title: "MooTool",
   description: "Handy desktop toolset for developers",
   head: [
-    ['link', { rel: 'icon', href: '/MooToolDoc/assets/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/assets/logo/logo-128.png',
+    logo: '/logo/logo-128.png',
     nav: [
       { text: '首页', link: '/' },
       { text: '文档', link: '/markdown-examples' },

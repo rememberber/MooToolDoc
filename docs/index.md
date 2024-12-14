@@ -6,7 +6,7 @@ hero:
   name: "MooTool"
   text: "Handy desktop toolset for developers"
   tagline: 开发者常备桌面小工具
-  image: /MooToolDoc/assets/logo/logo-256.png
+  image: /logo/logo-256.png
   actions:
     - theme: brand
       text: 立即下载
