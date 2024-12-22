@@ -13,7 +13,7 @@ export default defineConfig({
     logo: '/logo/logo-128.png',
     nav: [
       { text: '首页', link: '/' },
-      { text: '文档', link: '/markdown-examples' },
+      { text: '文档', link: '/function_map' },
       { text: '更新日志', link: 'https://github.com/rememberber/MooTool/releases' }
     ],
 
