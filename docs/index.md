@@ -13,7 +13,7 @@ hero:
       link: https://github.com/rememberber/MooTool/releases
     - theme: alt
       text: 文档
-      link: /api-examples
+      link: /function-map
 
 features:
   - title: 随手记
