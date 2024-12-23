@@ -99,4 +99,3 @@ features:
 ---
 
 <!--@include: ./overview.md-->
-<!--@include: ./function-map.md-->
