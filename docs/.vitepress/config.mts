@@ -3,6 +3,7 @@ import {defineConfig} from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     base: '/',
+    siteTitle: "MooTool",
     title: "MooTool",
     description: "Handy desktop toolset for developers",
     head: [
@@ -30,6 +31,15 @@ export default defineConfig({
 
         socialLinks: [
             {icon: 'github', link: 'https://github.com/rememberber/MooTool'}
-        ]
+        ],
+
+        aside: 'left',
+
+        returnToTopLabel: '返回顶部',
+
+        footer: {
+            message: 'Released under the MIT License.',
+            copyright: 'Copyright © 2024-present RememBerBer'
+        }
     }
 })
