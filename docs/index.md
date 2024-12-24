@@ -12,7 +12,7 @@ hero:
       text: 立即下载
       link: https://github.com/rememberber/MooTool/releases
     - theme: alt
-      text: 文档
+      text: 功能地图
       link: /function-map
 
 features:
