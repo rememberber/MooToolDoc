@@ -43,6 +43,3 @@ Windows • Linux • macOS
 
 [https://github.com/rememberber/MooTool/releases](https://github.com/rememberber/MooTool/releases)  
 [https://gitee.com/zhoubochina/MooTool/releases](https://gitee.com/zhoubochina/MooTool/releases)
-
---------------------------------
---------------------------------
