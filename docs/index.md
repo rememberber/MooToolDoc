@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "MooTool"
-  text: "Handy desktop toolset for developers"
-  tagline: 开发者常备桌面小工具
+  text: "开发者常备桌面小工具"
+  tagline: Handy desktop toolset for developers
   image: /logo/logo-256.png
   actions:
     - theme: brand
