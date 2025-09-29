@@ -228,5 +228,10 @@
 ### JSON->YAML（TODO）
 ### YAML->JSON（TODO）
 
+## 文本对比
+### 并排对比
+### 统一差异
+### 复制差异
+
 ##
 ![MooToolMap.png](/img/MooToolMap.png)

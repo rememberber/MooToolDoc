@@ -33,6 +33,8 @@ Windows • Linux • macOS
 
 ![Overview](/assets/screen_shoot/java_mac_2.png)
 
+![Overview](/assets/screen_shoot/diff_mac.png)
+
 ![Overview](/assets/screen_shoot/mt-favoriteColor.png)
 
 ![Overview](/assets/screen_shoot/quick_note_light_mac.png)
