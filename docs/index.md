@@ -96,6 +96,10 @@ features:
     icon:
       src: /icon/suffix-yml.svg
     details: 支持YAML、Properties配置文件的互转。
+  - title: 文本差异比对
+    icon:
+      src: /icon/diff.svg
+    details: 支持并排对比、统一差异、复制差异等。
 ---
 
 <!--@include: ./overview.md-->
