@@ -4,102 +4,102 @@ layout: home
 
 hero:
   name: "MooTool"
-  text: "开发者常备桌面小工具"
+  text: "Handy Desktop Toolset for Developers"
   tagline: Handy desktop toolset for developers
   image: /logo/logo-256.png
   actions:
     - theme: brand
-      text: 立即下载
+      text: Download Now
       link: https://github.com/rememberber/MooTool/releases
     - theme: alt
-      text: 功能地图
+      text: Feature Map
       link: /function-map
 
 features:
-  - title: 随手记
+  - title: Quick Notes
     icon:
       src: /icon/edit.svg
-    details: 记录代码片段、常用的SQL、常用的接口、常用的数据、暂存一些临时log等。<br/>支持丰富的快捷替换和转换操作。
-  - title: 时间转换
+    details: Record code snippets, common SQL, APIs, data, and temporary logs.<br/>Supports rich quick replace and conversion operations.
+  - title: Time Converter
     icon:
       src: /icon/time.svg
-    details: Unix时间戳和本地时间的互相转换。<br/>操作直观，自动保存每次转换记录，支持毫秒和秒级别的时间戳。
+    details: Convert between Unix timestamps and local time.<br/>Intuitive operation with auto-saved history, supporting millisecond and second-level timestamps.
   - title: JSON
     icon:
       src: /icon/json.svg
-    details: JSON格式化、压缩、转义、解析、排序、转换等。<br/>支持JSONPath、JSON和XML互转、JSON和JavaBean互转等。
+    details: JSON formatting, compression, escaping, parsing, sorting, and conversion.<br/>Supports JSONPath, JSON/XML conversion, JSON/JavaBean conversion, and more.
   - title: Host
     icon:
       src: /icon/check.svg
-    details: Host管理，支持快速切换、添加、删除、导入、导出等。<br/>管理本地Host文件的好帮手。
+    details: Host management with quick switching, adding, deleting, importing, and exporting.<br/>A great helper for managing local Host files.
   - title: HTTP
     icon:
       src: /icon/global.svg
-    details: 发送和管理HTTP请求，支持GET、POST、PUT、DELETE、PATCH等请求方式。<br/>支持自定义请求头、请求体、请求参数、请求Cookie等。
-  - title: 编码转换
+    details: Send and manage HTTP requests with GET, POST, PUT, DELETE, PATCH, and more.<br/>Supports custom headers, body, parameters, and cookies.
+  - title: Encoding
     icon:
       src: /icon/exchange.svg
-    details: 支持常见的编码转换，如Base64、URL、Unicode、HEX等。
-  - title: 二维码
+    details: Common encoding conversions such as Base64, URL, Unicode, HEX, and more.
+  - title: QR Code
     icon:
       src: /icon/QRcode.svg
-    details: 生成和解析二维码。<br/>自动保存历史记录。
-  - title: 加解密/随机
+    details: Generate and parse QR codes.<br/>Automatically saves history.
+  - title: Crypto / Random
     icon:
       src: /icon/method.svg
-    details: 支持常见的加解密算法，如MD5、SHA1、AES、DES、RSA等。<br/>支持生成随机字符串、随机数字、随机密码等。
-  - title: 计算
+    details: Common encryption algorithms including MD5, SHA1, AES, DES, RSA, and more.<br/>Generate random strings, numbers, and passwords.
+  - title: Calculator
     icon:
       src: /icon/calculate.svg
-    details: 四则运算、进制转换、最大公约数、最小公倍数、排列组合等。<br/>自动保存历史记录。
-  - title: 网络/IP
+    details: Arithmetic, base conversion, GCD, LCM, permutations and combinations.<br/>Automatically saves history.
+  - title: Network / IP
     icon:
       src: /icon/network.svg
-    details: 系统网络查询、IP地址转换、Ping、DNS刷新、本机IP列表、域名解析等。
-  - title: 调色板
+    details: System network queries, IP conversion, Ping, DNS refresh, local IP list, domain resolution, and more.
+  - title: Color Board
     icon:
       src: /icon/color.svg
-    details: 颜色管理神器，支持取色、颜色选择器、颜色转换、颜色搭配等。
-  - title: 图片助手
+    details: Color management tool with color picking, color picker, color conversion, and color matching.
+  - title: Image Helper
     icon:
       src: /icon/image.svg
-    details: 本地图床、剪贴板图片的好去处。<br/>支持图片和Base64互转等。
-  - title: 翻译
+    details: Local image hosting and clipboard image storage.<br/>Supports image and Base64 conversion.
+  - title: Translation
     icon:
       src: /icon/translate.svg
-    details: 使用谷歌翻译API，支持自动检测语言
+    details: Uses Google Translate API with automatic language detection.
   - title: Cron
     icon:
       src: /icon/schedule.svg
-    details: Cron表达式生成、解析、校验、计算等。<br/>支持常用的Cron表达式。<br/>支持收藏。
-  - title: 正则
+    details: Cron expression generation, parsing, validation, and calculation.<br/>Supports common Cron expressions and favorites.
+  - title: Regex
     icon:
       src: /icon/reg.svg
-    details: 正则表达式解析、校验、匹配等。<br/>支持常用的正则表达式。<br/>支持收藏。
+    details: Regular expression parsing, validation, and matching.<br/>Supports common regex patterns and favorites.
   - title: Java
     icon:
       src: /icon/java.svg
-    details: Java和Groovy代码的解释执行。
-  - title: 格式化
+    details: Interpret and execute Java and Groovy code.
+  - title: Formatter
     icon:
       src: /icon/format_painter.svg
-    details: 格式化文本或者文件，支持Nginx配置文件、XML、Java、HTML等。
+    details: Format text or files, supporting Nginx config, XML, Java, HTML, and more.
   - title: PDF
     icon:
       src: /icon/pdf.svg
-    details: PDF文件的合并、拆分等。
-  - title: 环境变量
+    details: PDF file merging and splitting.
+  - title: Environment Variables
     icon:
       src: /icon/fx.svg
-    details: 系统和Java环境变量的查看。
-  - title: 配置文件转换
+    details: View system and Java environment variables.
+  - title: Config Converter
     icon:
       src: /icon/suffix-yml.svg
-    details: 支持YAML、Properties配置文件的互转。
-  - title: 文本差异比对
+    details: Convert between YAML and Properties configuration files.
+  - title: Text Diff
     icon:
       src: /icon/diff.svg
-    details: 支持并排对比、统一差异、复制差异等。
+    details: Side-by-side comparison, unified diff, and copy differences.
 ---
 
 <!--@include: ./overview.md-->

@@ -1,7 +1,7 @@
-## Supported Platforms
+## 対応プラットフォーム
 Windows • Linux • macOS
 
-## Screenshots
+## スクリーンショット
 
 ![Overview](/assets/screen_shoot/quick_note_2_mac.png)
 
@@ -41,7 +41,7 @@ Windows • Linux • macOS
 
 ![Overview](/assets/screen_shoot/theme.png)
 
-## Download
+## ダウンロード
 
 [https://github.com/rememberber/MooTool/releases](https://github.com/rememberber/MooTool/releases)  
 [https://gitee.com/zhoubochina/MooTool/releases](https://gitee.com/zhoubochina/MooTool/releases)
