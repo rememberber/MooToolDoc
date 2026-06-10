@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "MooTool"
-  text: "Handy Desktop Toolset for Developers"
+  text: "All-in-One Developer Toolbox"
   tagline: Handy desktop toolset for developers
   image: /logo/logo-256.png
   actions:
